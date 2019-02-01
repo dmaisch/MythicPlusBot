@@ -9,7 +9,7 @@ python 3.0-3.6
 pandas
 
 TODO: 
-Automate downloading of file 
-Make script to automatically run on Pi 
-Configure Discord commands 
-Add documentation
+Automate downloading of file  
+Make script to automatically run on Pi  
+Configure Discord commands  
+Add documentation  
